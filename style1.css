@@ -1,0 +1,49 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    
+}
+.login{
+    height: 300px;
+    width: 500px;
+    box-sizing: border-box;
+    
+    background-color: blue;
+    /* margin:auto; */
+    padding: 20ox;
+    /* text-align: center; */
+} 
+h1{
+    text-align: center;
+    color: brown;
+    margin: 30px;
+
+}
+form{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+}
+.input1{
+    
+border-radius: 20px;
+    margin: 4px auto;
+    background-color: burlywood;
+
+    padding: 10px;
+}
+p{
+    text-align: center;
+
+}
+button{
+    margin: auto;
+    padding: 10px;
+    background-color:rebeccapurple;
+    border-radius: 10px;
+    
+    
+}
+button:hover{
+    color: bisque;
+}
